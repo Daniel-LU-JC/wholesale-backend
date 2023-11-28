@@ -1,0 +1,13 @@
+package com.example.orm_backend;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class OrmBackendApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
